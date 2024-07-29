@@ -36,7 +36,7 @@ const WelcomePage = ({navigation}: any) => {
             width: '90%',
             marginTop: '10%',
           }}>
-          Welcome to WISHAL SHOPPING STORE Explore and buy a variety of shopping
+          Welcome to THARUU SHOPPING STORE Explore and buy a variety of shopping
           products.
           {'\n'}
           Enjoy your shopping experience with us!

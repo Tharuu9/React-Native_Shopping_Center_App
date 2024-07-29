@@ -152,7 +152,7 @@ const SignUp = ({navigation}: any) => {
               }}
               keyboardType="numeric"
               placeholderTextColor="#000"
-              placeholder="Enater Your Phone Number"
+              placeholder="Enter Your Phone Number"
             />
           </View>
           <View

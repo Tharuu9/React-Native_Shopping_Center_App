@@ -243,7 +243,7 @@ const Home = ({navigation}: any) => {
               letterSpacing: 1,
               marginBottom: 10,
             }}>
-            WELCOME TO THE Tharuu SHOPPING STORE!
+            WELCOME TO THE THARUU SHOPPING STORE!
           </Text>
           <Text
             style={{

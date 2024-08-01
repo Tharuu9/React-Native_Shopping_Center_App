@@ -253,7 +253,7 @@ const Home = ({navigation}: any) => {
               letterSpacing: 1,
               lineHeight: 24,
             }}>
-            shop on Kalutara Horana Sri Lanaka.
+            shop on Kalutara Horana Sri Lanka.
             {'\n'}App-only benefits make shopping faster and easier.
           </Text>
         </View>

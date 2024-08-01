@@ -2,13 +2,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # UI Images
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/welcomepage.jpg" width="220" height="510">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/signup.jpg" width="220" height="510">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/signin.jpg" width="220" height="510">
-   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/Home.jpg" width="220" height="510">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/profileInfo.jpg" width="220" height="510">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/cart1.jpg" width="220" height="510">
-   <img src="https://github.com/wishalNipun/ReactNativeMobileApp/blob/master/assets/cart2.jpg" width="220" height="510">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/welcomepage.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/signup.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/signin.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/Home.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/profileInfo.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/cart1.jpg" width="330" height="500">
+   <img src="https://github.com/Tharuu9/React-Native_Shopping_Center_App/blob/master/assets/cart2.jpg" width="330" height="500">
 </div>
 
 # Getting Started

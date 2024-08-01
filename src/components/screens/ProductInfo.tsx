@@ -292,7 +292,7 @@ const ProductInfo = ({route, navigation}: any) => {
                 />
               </View>
               <Text style={{color: COLOURS.black}}>
-                "WISHAL SHOPPING STORE",{'\n'} Moragalla, Beruwala, Sri Lanaka.
+                "THARUU SHOPPING STORE",{'\n'} Kalutara, Horana, Sri Lanaka.
               </Text>
             </View>
             <Entypo

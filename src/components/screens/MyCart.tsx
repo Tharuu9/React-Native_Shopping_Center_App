@@ -357,7 +357,7 @@ const MyCart = ({navigation}: any) => {
                       color: COLOURS.black,
                       fontWeight: '500',
                     }}>
-                    272/A Kaluthara Srilanka.
+                    82/E, Horana Srilanka.
                   </Text>
                   <Text
                     style={{
@@ -367,7 +367,7 @@ const MyCart = ({navigation}: any) => {
                       lineHeight: 20,
                       opacity: 0.5,
                     }}>
-                    1789, Kaluthara
+                    12538, Haltota.
                   </Text>
                 </View>
               </View>

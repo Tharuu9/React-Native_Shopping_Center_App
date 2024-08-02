@@ -79,7 +79,7 @@ const SignUp = ({navigation}: any) => {
 
   return (
     <DismissKeyboard>
-      <View style={{flex: 1, backgroundColor: 'white'}}>
+      <View style={{flex: 1, backgroundColor: 'pink'}}>
         <Image
           style={{
             width: 200,
@@ -93,7 +93,7 @@ const SignUp = ({navigation}: any) => {
         <View style={{alignItems: 'center', marginTop: 20}}>
           <Text
             style={{
-              color: COLOURS.blue,
+              color: COLOURS.black,
               fontSize: 40,
               fontWeight: '800',
               letterSpacing: 1.5,
@@ -224,7 +224,7 @@ const SignUp = ({navigation}: any) => {
               width: '86%',
               height: '90%',
               backgroundColor: isFormValid
-                ? COLOURS.blue
+                ? COLOURS.black
                 : COLOURS.backgroundLight,
               borderRadius: 5,
               justifyContent: 'center',
@@ -255,7 +255,7 @@ const SignUp = ({navigation}: any) => {
             <Text
               onPress={() => navigation.navigate('SignIn')}
               style={{
-                color: COLOURS.blue,
+                color: COLOURS.black,
                 fontWeight: 'bold',
                 textAlign: 'center',
                 fontSize: 16,

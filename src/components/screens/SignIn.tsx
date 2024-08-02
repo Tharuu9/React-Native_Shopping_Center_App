@@ -69,7 +69,7 @@ const SignIn = ({navigation}: any) => {
 
   return (
     <DismissKeyboard>
-      <View style={{flex: 1, backgroundColor: 'white'}}>
+      <View style={{flex: 1, backgroundColor: 'pink'}}>
         <Image
           style={{
             width: 200,
@@ -83,7 +83,7 @@ const SignIn = ({navigation}: any) => {
         <View style={{alignItems: 'center', marginTop: 70}}>
           <Text
             style={{
-              color: COLOURS.blue,
+              color: COLOURS.black,
               fontSize: 40,
               fontWeight: '800',
               fontFamily: 'roboto',
@@ -153,7 +153,7 @@ const SignIn = ({navigation}: any) => {
             style={{
               width: '86%',
               height: '90%',
-              backgroundColor: COLOURS.blue,
+              backgroundColor: COLOURS.black,
               borderRadius: 5,
               justifyContent: 'center',
               alignItems: 'center',
@@ -183,7 +183,7 @@ const SignIn = ({navigation}: any) => {
             <Text
               onPress={() => navigation.navigate('SignUp')}
               style={{
-                color: COLOURS.blue,
+                color: COLOURS.red,
                 fontWeight: 'bold',
                 textAlign: 'center',
                 fontSize: 16,

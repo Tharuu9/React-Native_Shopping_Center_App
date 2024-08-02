@@ -4,7 +4,7 @@ import {COLOURS} from '../database/Database';
 
 const WelcomePage = ({navigation}: any) => {
   return (
-    <View style={{flex: 1, backgroundColor: 'white'}}>
+    <View style={{flex: 1, backgroundColor: 'pink'}}>
       <Image
         style={{
           width: 200,
@@ -18,7 +18,7 @@ const WelcomePage = ({navigation}: any) => {
       <View style={{alignItems: 'center', marginTop: 70}}>
         <Text
           style={{
-            color: COLOURS.blue,
+            color: COLOURS.black,
             fontSize: 40,
             fontWeight: '800',
             fontFamily: 'roboto',
@@ -28,7 +28,7 @@ const WelcomePage = ({navigation}: any) => {
         </Text>
         <Text
           style={{
-            color: COLOURS.blue,
+            color: COLOURS.black,
             fontSize: 16,
             fontFamily: 'roboto',
             textAlign: 'center',
@@ -57,7 +57,7 @@ const WelcomePage = ({navigation}: any) => {
           style={{
             width: '86%',
             height: '90%',
-            backgroundColor: COLOURS.blue,
+            backgroundColor: COLOURS.black,
             borderRadius: 20,
             justifyContent: 'center',
             alignItems: 'center',

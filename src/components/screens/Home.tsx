@@ -106,7 +106,7 @@ const Home = ({navigation}: any) => {
             <Text
               style={{
                 fontSize: 12,
-                color: COLOURS.red,
+                color: COLOURS.darkBlue,
                 fontWeight: '600',
                 marginBottom: 2,
               }}>
@@ -129,7 +129,7 @@ const Home = ({navigation}: any) => {
           <Text
             style={{
               fontSize: 12,
-              color: COLOURS.red,
+              color: COLOURS.blue,
               fontWeight: '600',
               marginBottom: 2,
             }}>
